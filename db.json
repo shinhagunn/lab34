@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kinh dị"
+    },
+    {
+      "id": 2,
+      "name": "Trinh thám"
+    },
+    {
+      "id": 3,
+      "name": "Hài hước"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "Sách 1",
+      "price": 142356
+    },
+    {
+      "id": 2,
+      "category_id": 2,
+      "name": "Sách 2",
+      "price": 123151
+    },
+    {
+      "id": 3,
+      "category_id": 3,
+      "name": "Sách 3",
+      "price": 1350266
+    },
+    {
+      "id": 4,
+      "category_id": 3,
+      "name": "Sách 4",
+      "price": 2345000
+    },
+    {
+      "id": 5,
+      "category_id": 2,
+      "name": "Sách 5",
+      "price": 16739000
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "name": "Sách 6",
+      "price": 1379000
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "name": "Sách 7",
+      "price": 745000
+    },
+    {
+      "category_id": 2,
+      "name": "test ađ",
+      "price": 12351,
+      "id": 8
+    }
+  ]
+}
